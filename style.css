@@ -379,7 +379,7 @@ span {
     content: '';
     position: absolute;
     left: -1.1rem;
-    top: 2rem;
+    top: 0rem;
     width: 2rem;
     height: 2rem;
     background: var(--main-color);
@@ -428,4 +428,8 @@ span {
 .education-content .content p {
     font-size: 1.6rem;
     padding-top: .5rem;
+}
+
+.skills {
+    color: var(--text-color);
 }
